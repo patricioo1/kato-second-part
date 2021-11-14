@@ -1,1 +1,0 @@
-export const addProxyUrl = (url) => `http://cors-anywhere.herokuapp.com/${url}`

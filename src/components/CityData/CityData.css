@@ -2,10 +2,24 @@
     padding-top: 50px;
 }
 
+.city-wrapper .error {
+    text-align: center;
+    font-weight: bold;
+    color: rgba(241, 12, 12, 0.979);
+}
+
 .selectCity {
     width: 100%;
     height: auto;
     text-align: center;
+}
+
+.selectCity select {
+    margin-right: 15px;
+}
+
+.selectCity button {
+    margin-left: 15px;
 }
 
 .cityData-wrapper .info-data {
